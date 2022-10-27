@@ -1,0 +1,17 @@
+{
+  "name": "br_reprl_synpack_format_bug",
+  "version": "1.0.0",
+  "scripts": {
+    "repro": "syncpack format"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muravjev/reprl_synpack_format_bug.git"
+  },
+  "bugs": {
+    "url": "https://github.com/muravjev/reprl_synpack_format_bug/issues"
+  },
+  "devDependencies": {
+    "syncpack": "^8.2.4"
+  }
+}
